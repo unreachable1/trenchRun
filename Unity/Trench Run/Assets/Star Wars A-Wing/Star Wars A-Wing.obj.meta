@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: ca0910f0afa75e54a83eda84e8740f86
+timeCreated: 1525146223
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: A_WING_LOWER0
+    100002: A_WING_LOWER1
+    100004: A_WING_LOWER2
+    100006: A_WING_UPPER0
+    100008: A_WING_UPPER1
+    100010: A_WING_UPPER2
+    100012: A_WING_UPPER3
+    100014: AW_FlameL
+    100016: AW_FlameR
+    100018: AWING_TAIL_LEFT
+    100020: AWING_TAIL_RIGHT
+    100022: BLACK_GUN0
+    100024: BLACK_GUN1
+    100026: BLACK_MATTE0
+    100028: BLACK_MATTE1
+    100030: BLACK_MATTE2
+    100032: BLACK_MATTE3
+    100034: BLUE_GLASS
+    100036: ENGINE0
+    100038: ENGINE1
+    100040: GREY_DARK
+    100042: GREY_LIGHT0
+    100044: GREY_LIGHT1
+    100046: GREY_LIGHT2
+    100048: GREY_LIGHT3
+    100050: REBEL_RED_II0
+    100052: REBEL_RED_II1
+    100054: REBEL_RED_II2
+    100056: //RootNode
+    100058: WHITE_HULL0
+    100060: WHITE_HULL1
+    100062: WHITE_HULL2
+    100064: WHITE_HULL3
+    100066: WHITE_HULL4
+    400000: A_WING_LOWER0
+    400002: A_WING_LOWER1
+    400004: A_WING_LOWER2
+    400006: A_WING_UPPER0
+    400008: A_WING_UPPER1
+    400010: A_WING_UPPER2
+    400012: A_WING_UPPER3
+    400014: AW_FlameL
+    400016: AW_FlameR
+    400018: AWING_TAIL_LEFT
+    400020: AWING_TAIL_RIGHT
+    400022: BLACK_GUN0
+    400024: BLACK_GUN1
+    400026: BLACK_MATTE0
+    400028: BLACK_MATTE1
+    400030: BLACK_MATTE2
+    400032: BLACK_MATTE3
+    400034: BLUE_GLASS
+    400036: ENGINE0
+    400038: ENGINE1
+    400040: GREY_DARK
+    400042: GREY_LIGHT0
+    400044: GREY_LIGHT1
+    400046: GREY_LIGHT2
+    400048: GREY_LIGHT3
+    400050: REBEL_RED_II0
+    400052: REBEL_RED_II1
+    400054: REBEL_RED_II2
+    400056: //RootNode
+    400058: WHITE_HULL0
+    400060: WHITE_HULL1
+    400062: WHITE_HULL2
+    400064: WHITE_HULL3
+    400066: WHITE_HULL4
+    2300000: A_WING_LOWER0
+    2300002: A_WING_LOWER1
+    2300004: A_WING_LOWER2
+    2300006: A_WING_UPPER0
+    2300008: A_WING_UPPER1
+    2300010: A_WING_UPPER2
+    2300012: A_WING_UPPER3
+    2300014: AW_FlameL
+    2300016: AW_FlameR
+    2300018: AWING_TAIL_LEFT
+    2300020: AWING_TAIL_RIGHT
+    2300022: BLACK_GUN0
+    2300024: BLACK_GUN1
+    2300026: BLACK_MATTE0
+    2300028: BLACK_MATTE1
+    2300030: BLACK_MATTE2
+    2300032: BLACK_MATTE3
+    2300034: BLUE_GLASS
+    2300036: ENGINE0
+    2300038: ENGINE1
+    2300040: GREY_DARK
+    2300042: GREY_LIGHT0
+    2300044: GREY_LIGHT1
+    2300046: GREY_LIGHT2
+    2300048: GREY_LIGHT3
+    2300050: REBEL_RED_II0
+    2300052: REBEL_RED_II1
+    2300054: REBEL_RED_II2
+    2300056: WHITE_HULL0
+    2300058: WHITE_HULL1
+    2300060: WHITE_HULL2
+    2300062: WHITE_HULL3
+    2300064: WHITE_HULL4
+    3300000: A_WING_LOWER0
+    3300002: A_WING_LOWER1
+    3300004: A_WING_LOWER2
+    3300006: A_WING_UPPER0
+    3300008: A_WING_UPPER1
+    3300010: A_WING_UPPER2
+    3300012: A_WING_UPPER3
+    3300014: AW_FlameL
+    3300016: AW_FlameR
+    3300018: AWING_TAIL_LEFT
+    3300020: AWING_TAIL_RIGHT
+    3300022: BLACK_GUN0
+    3300024: BLACK_GUN1
+    3300026: BLACK_MATTE0
+    3300028: BLACK_MATTE1
+    3300030: BLACK_MATTE2
+    3300032: BLACK_MATTE3
+    3300034: BLUE_GLASS
+    3300036: ENGINE0
+    3300038: ENGINE1
+    3300040: GREY_DARK
+    3300042: GREY_LIGHT0
+    3300044: GREY_LIGHT1
+    3300046: GREY_LIGHT2
+    3300048: GREY_LIGHT3
+    3300050: REBEL_RED_II0
+    3300052: REBEL_RED_II1
+    3300054: REBEL_RED_II2
+    3300056: WHITE_HULL0
+    3300058: WHITE_HULL1
+    3300060: WHITE_HULL2
+    3300062: WHITE_HULL3
+    3300064: WHITE_HULL4
+    4300000: A_WING_LOWER0
+    4300002: A_WING_LOWER1
+    4300004: A_WING_LOWER2
+    4300006: A_WING_UPPER0
+    4300008: A_WING_UPPER1
+    4300010: A_WING_UPPER2
+    4300012: A_WING_UPPER3
+    4300014: AW_FlameL
+    4300016: AW_FlameR
+    4300018: AWING_TAIL_LEFT
+    4300020: AWING_TAIL_RIGHT
+    4300022: BLACK_GUN0
+    4300024: BLACK_GUN1
+    4300026: BLACK_MATTE0
+    4300028: BLACK_MATTE1
+    4300030: BLACK_MATTE2
+    4300032: BLACK_MATTE3
+    4300034: BLUE_GLASS
+    4300036: ENGINE0
+    4300038: ENGINE1
+    4300040: GREY_DARK
+    4300042: GREY_LIGHT0
+    4300044: GREY_LIGHT1
+    4300046: GREY_LIGHT2
+    4300048: GREY_LIGHT3
+    4300050: REBEL_RED_II0
+    4300052: REBEL_RED_II1
+    4300054: REBEL_RED_II2
+    4300056: WHITE_HULL0
+    4300058: WHITE_HULL1
+    4300060: WHITE_HULL2
+    4300062: WHITE_HULL3
+    4300064: WHITE_HULL4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AWING_TAIL_LEFTMat
+    second: {fileID: 2100000, guid: e3b2269742c9a614d8aa43160dec01e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AWING_TAIL_RIGHTMat
+    second: {fileID: 2100000, guid: 62287781fa1712e4fabee6684f3d6815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AW_FlameLMat
+    second: {fileID: 2100000, guid: e11c2879ecdd16a47a9d3e56678c6ced, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AW_FlameRMat
+    second: {fileID: 2100000, guid: db27a751fcb71c744846bfd9284e6cc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_WING_LOWER0Mat
+    second: {fileID: 2100000, guid: 8c2feae8673faa64bbac96f2daf5e002, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_WING_LOWER1Mat
+    second: {fileID: 2100000, guid: f9f88a0ad0c0c6f498c96b200311c080, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_WING_LOWER2Mat
+    second: {fileID: 2100000, guid: 0953ac75873b4104f9d6eee28de58726, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_WING_UPPER0Mat
+    second: {fileID: 2100000, guid: 015059a92a3d5e54899c096f58e96486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_WING_UPPER1Mat
+    second: {fileID: 2100000, guid: 5afc391f990ccd04286425ab6d58a710, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_WING_UPPER2Mat
+    second: {fileID: 2100000, guid: b3ce4b01b7bcae848900bf6f0aef0c0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_WING_UPPER3Mat
+    second: {fileID: 2100000, guid: df9234bb27ecf23478491045e017e8f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_GUN0Mat
+    second: {fileID: 2100000, guid: cde0a3e6e15c6f04d99bb80a2f47f214, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_GUN1Mat
+    second: {fileID: 2100000, guid: 189a037fbda63684db919ac9273a09f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_MATTE0Mat
+    second: {fileID: 2100000, guid: 71c61cc6a4ab4e545aba2fbaa099361e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_MATTE1Mat
+    second: {fileID: 2100000, guid: 8c3cf0d859d271c48b2119d8b4be67ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_MATTE2Mat
+    second: {fileID: 2100000, guid: 849f5abe74d46fd4798efac5352845f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLACK_MATTE3Mat
+    second: {fileID: 2100000, guid: 3f361ace66db71544874d0c9c3116d5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLUE_GLASSMat
+    second: {fileID: 2100000, guid: b464ef2e332fbb24eb3a14d9fe297dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENGINE0Mat
+    second: {fileID: 2100000, guid: d38a358afe29dd44984b35d3521caa03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENGINE1Mat
+    second: {fileID: 2100000, guid: cfbdb90aff770e745988832262d2f9f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREY_DARKMat
+    second: {fileID: 2100000, guid: add7dac60c1df1b4b8028bfc6a2a09a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREY_LIGHT0Mat
+    second: {fileID: 2100000, guid: 8715d9502e5a6a44e8a656b6304eec3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREY_LIGHT1Mat
+    second: {fileID: 2100000, guid: 42d5c6832fc02934eb3fd8ecc33d0049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREY_LIGHT2Mat
+    second: {fileID: 2100000, guid: 96b879b76b311594686d5ce144749db6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GREY_LIGHT3Mat
+    second: {fileID: 2100000, guid: e5ded1c37c646d5479e5313f4e616734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: REBEL_RED_II0Mat
+    second: {fileID: 2100000, guid: b7e0712fe86cf4f488e240f8e31af63a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: REBEL_RED_II1Mat
+    second: {fileID: 2100000, guid: b34a8521718a4cf4c84f81aac7ccbb63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: REBEL_RED_II2Mat
+    second: {fileID: 2100000, guid: f66d9e6a721ad30439d7bad5130f6b71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WHITE_HULL0Mat
+    second: {fileID: 2100000, guid: 8228fbf374ba644498a164bae41694a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WHITE_HULL1Mat
+    second: {fileID: 2100000, guid: 156eb0d084133414db6d6ba3e1092e95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WHITE_HULL2Mat
+    second: {fileID: 2100000, guid: 8a4dda5f06e10364f972925e78b95b9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WHITE_HULL3Mat
+    second: {fileID: 2100000, guid: abeabb49da82292409edbd8f2c75c2b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WHITE_HULL4Mat
+    second: {fileID: 2100000, guid: 869b230124590d7438f439bf54ff00fd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

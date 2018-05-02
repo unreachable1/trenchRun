@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 417815efab0314f4cb06436a6210c249
+timeCreated: 1525162329
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: black_ma
+    100002: black_pl
+    100004: blue_gla
+    100006: brown_se
+    100008: bw_cockp
+    100010: bw_hull
+    100012: bw_lase0
+    100014: bw_lase1
+    100016: bw_white
+    100018: bw_wing
+    100020: grey_pls
+    100022: orange
+    100024: pilotbla
+    100026: rpilot_0
+    100028: rpilot_1
+    100030: rpilot_2
+    100032: rpilot_3
+    100034: rpilot_4
+    100036: rpilot_5
+    100038: rpilot_6
+    100040: rpilot__
+    100042: rpilot_e
+    100044: rpilot_f
+    100046: rpilot_i
+    100048: rpilot_n
+    100050: rpilot_s
+    100052: rpliot_f
+    100054: //RootNode
+    400000: black_ma
+    400002: black_pl
+    400004: blue_gla
+    400006: brown_se
+    400008: bw_cockp
+    400010: bw_hull
+    400012: bw_lase0
+    400014: bw_lase1
+    400016: bw_white
+    400018: bw_wing
+    400020: grey_pls
+    400022: orange
+    400024: pilotbla
+    400026: rpilot_0
+    400028: rpilot_1
+    400030: rpilot_2
+    400032: rpilot_3
+    400034: rpilot_4
+    400036: rpilot_5
+    400038: rpilot_6
+    400040: rpilot__
+    400042: rpilot_e
+    400044: rpilot_f
+    400046: rpilot_i
+    400048: rpilot_n
+    400050: rpilot_s
+    400052: rpliot_f
+    400054: //RootNode
+    2300000: black_ma
+    2300002: black_pl
+    2300004: blue_gla
+    2300006: brown_se
+    2300008: bw_cockp
+    2300010: bw_hull
+    2300012: bw_lase0
+    2300014: bw_lase1
+    2300016: bw_white
+    2300018: bw_wing
+    2300020: grey_pls
+    2300022: orange
+    2300024: pilotbla
+    2300026: rpilot_0
+    2300028: rpilot_1
+    2300030: rpilot_2
+    2300032: rpilot_3
+    2300034: rpilot_4
+    2300036: rpilot_5
+    2300038: rpilot_6
+    2300040: rpilot__
+    2300042: rpilot_e
+    2300044: rpilot_f
+    2300046: rpilot_i
+    2300048: rpilot_n
+    2300050: rpilot_s
+    2300052: rpliot_f
+    3300000: black_ma
+    3300002: black_pl
+    3300004: blue_gla
+    3300006: brown_se
+    3300008: bw_cockp
+    3300010: bw_hull
+    3300012: bw_lase0
+    3300014: bw_lase1
+    3300016: bw_white
+    3300018: bw_wing
+    3300020: grey_pls
+    3300022: orange
+    3300024: pilotbla
+    3300026: rpilot_0
+    3300028: rpilot_1
+    3300030: rpilot_2
+    3300032: rpilot_3
+    3300034: rpilot_4
+    3300036: rpilot_5
+    3300038: rpilot_6
+    3300040: rpilot__
+    3300042: rpilot_e
+    3300044: rpilot_f
+    3300046: rpilot_i
+    3300048: rpilot_n
+    3300050: rpilot_s
+    3300052: rpliot_f
+    4300000: black_ma
+    4300002: black_pl
+    4300004: blue_gla
+    4300006: brown_se
+    4300008: bw_cockp
+    4300010: bw_hull
+    4300012: bw_lase0
+    4300014: bw_lase1
+    4300016: bw_white
+    4300018: bw_wing
+    4300020: grey_pls
+    4300022: orange
+    4300024: pilotbla
+    4300026: rpilot__
+    4300028: rpilot_0
+    4300030: rpilot_1
+    4300032: rpilot_e
+    4300034: rpilot_f
+    4300036: rpilot_2
+    4300038: rpilot_3
+    4300040: rpilot_i
+    4300042: rpilot_n
+    4300044: rpilot_s
+    4300046: rpilot_4
+    4300048: rpilot_5
+    4300050: rpilot_6
+    4300052: rpliot_f
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_pla
+    second: {fileID: 2100000, guid: 1ede207aa0af45241bd2de02be08056a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_whi
+    second: {fileID: 2100000, guid: 13ae513c870c16f4e8cab6cc9ae987db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mercury
+    second: {fileID: 2100000, guid: 9a4aaf4e3b88d6d47a3636bca1213e42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metalli0
+    second: {fileID: 2100000, guid: c65addb761485094da5666c3d22ac7b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metalli1
+    second: {fileID: 2100000, guid: 6ed6f2a0948532845b45a02054f92442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pewter
+    second: {fileID: 2100000, guid: c6d0cdc59a3ade94b812678d33d8b4b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pottery_
+    second: {fileID: 2100000, guid: a9605440dc3381c4cb2d8df9358398d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_p0
+    second: {fileID: 2100000, guid: 6436c14415564be46b7040ef4b76a7d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_p1
+    second: {fileID: 2100000, guid: 9a4c6e1b61b6eac4f9ebf38e5477ba03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_p2
+    second: {fileID: 2100000, guid: d5efb5d6e3506e741a2556aa65efee9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue_gla
+    second: {fileID: 2100000, guid: 782ad0334083eab4aab6ade48975264a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown_se
+    second: {fileID: 2100000, guid: 083d30aa2f95eba46950d9161e7c38a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange
+    second: {fileID: 2100000, guid: 10289c6be931d30428ed95ec480b655c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_0
+    second: {fileID: 2100000, guid: 9dbf3a4ac1d140b4fae6a40f402b779f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_1
+    second: {fileID: 2100000, guid: 3318872a38289be4eabddb0c402e7b95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_2
+    second: {fileID: 2100000, guid: a3d84131948aafd4c8b98f54472fb1f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_3
+    second: {fileID: 2100000, guid: d029f1d4d4992844dbe543d520d60604, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_4
+    second: {fileID: 2100000, guid: c8b86ca03dc3bbe4b8d45749c6e6aa7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_5
+    second: {fileID: 2100000, guid: d969e8778370075468c7c5afa261b894, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_6
+    second: {fileID: 2100000, guid: 70f2ad69de8ba44489ad49e6b7f6a453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot__
+    second: {fileID: 2100000, guid: a8540b86706a93141af46d2419967eb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_e
+    second: {fileID: 2100000, guid: 2f43c56ed7ab879438db62068e05616d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_f
+    second: {fileID: 2100000, guid: 023e51d7f0a2d884282991df38ec44d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_i
+    second: {fileID: 2100000, guid: a7b8e4e3a7ac7e541a385a0c453817cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_n
+    second: {fileID: 2100000, guid: d1e97d4005f80ee498712ba884f3bb20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_s
+    second: {fileID: 2100000, guid: 3bd61487f6c33564aaa163b81c11b62f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpliot_f
+    second: {fileID: 2100000, guid: 365f24c384d9ff44caa6e8e61e3ec49f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

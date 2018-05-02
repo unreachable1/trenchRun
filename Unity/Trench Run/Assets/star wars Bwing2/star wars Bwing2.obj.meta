@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: fe78f402c2796b944ab4f512468f1a3f
+timeCreated: 1525162334
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: black_matt
+    100002: black_plst
+    100004: blue_glass
+    100006: brown_seat
+    100008: bw_cockpit
+    100010: bw_hull
+    100012: bw_laser_1
+    100014: bw_laser_2
+    100016: bw_white
+    100018: bw_wing
+    100020: grey_plstc
+    100022: orange
+    100024: pilotblack
+    100026: rpilot__he
+    100028: rpilot_ch1
+    100030: rpilot_che
+    100032: rpilot_eye
+    100034: rpilot_fac
+    100036: rpilot_he1
+    100038: rpilot_hel
+    100040: rpilot_iri
+    100042: rpilot_nec
+    100044: rpilot_str
+    100046: rpilot_ve1
+    100048: rpilot_ves
+    100050: rpilot_vis
+    100052: rpliot_fli
+    100054: //RootNode
+    400000: black_matt
+    400002: black_plst
+    400004: blue_glass
+    400006: brown_seat
+    400008: bw_cockpit
+    400010: bw_hull
+    400012: bw_laser_1
+    400014: bw_laser_2
+    400016: bw_white
+    400018: bw_wing
+    400020: grey_plstc
+    400022: orange
+    400024: pilotblack
+    400026: rpilot__he
+    400028: rpilot_ch1
+    400030: rpilot_che
+    400032: rpilot_eye
+    400034: rpilot_fac
+    400036: rpilot_he1
+    400038: rpilot_hel
+    400040: rpilot_iri
+    400042: rpilot_nec
+    400044: rpilot_str
+    400046: rpilot_ve1
+    400048: rpilot_ves
+    400050: rpilot_vis
+    400052: rpliot_fli
+    400054: //RootNode
+    2300000: black_matt
+    2300002: black_plst
+    2300004: blue_glass
+    2300006: brown_seat
+    2300008: bw_cockpit
+    2300010: bw_hull
+    2300012: bw_laser_1
+    2300014: bw_laser_2
+    2300016: bw_white
+    2300018: bw_wing
+    2300020: grey_plstc
+    2300022: orange
+    2300024: pilotblack
+    2300026: rpilot__he
+    2300028: rpilot_ch1
+    2300030: rpilot_che
+    2300032: rpilot_eye
+    2300034: rpilot_fac
+    2300036: rpilot_he1
+    2300038: rpilot_hel
+    2300040: rpilot_iri
+    2300042: rpilot_nec
+    2300044: rpilot_str
+    2300046: rpilot_ve1
+    2300048: rpilot_ves
+    2300050: rpilot_vis
+    2300052: rpliot_fli
+    3300000: black_matt
+    3300002: black_plst
+    3300004: blue_glass
+    3300006: brown_seat
+    3300008: bw_cockpit
+    3300010: bw_hull
+    3300012: bw_laser_1
+    3300014: bw_laser_2
+    3300016: bw_white
+    3300018: bw_wing
+    3300020: grey_plstc
+    3300022: orange
+    3300024: pilotblack
+    3300026: rpilot__he
+    3300028: rpilot_ch1
+    3300030: rpilot_che
+    3300032: rpilot_eye
+    3300034: rpilot_fac
+    3300036: rpilot_he1
+    3300038: rpilot_hel
+    3300040: rpilot_iri
+    3300042: rpilot_nec
+    3300044: rpilot_str
+    3300046: rpilot_ve1
+    3300048: rpilot_ves
+    3300050: rpilot_vis
+    3300052: rpliot_fli
+    4300000: black_matt
+    4300002: black_plst
+    4300004: blue_glass
+    4300006: brown_seat
+    4300008: bw_cockpit
+    4300010: bw_hull
+    4300012: bw_laser_1
+    4300014: bw_laser_2
+    4300016: bw_white
+    4300018: bw_wing
+    4300020: grey_plstc
+    4300022: orange
+    4300024: pilotblack
+    4300026: rpilot__he
+    4300028: rpilot_ch1
+    4300030: rpilot_che
+    4300032: rpilot_eye
+    4300034: rpilot_fac
+    4300036: rpilot_he1
+    4300038: rpilot_hel
+    4300040: rpilot_iri
+    4300042: rpilot_nec
+    4300044: rpilot_str
+    4300046: rpilot_ve1
+    4300048: rpilot_ves
+    4300050: rpilot_vis
+    4300052: rpliot_fli
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_mattMat
+    second: {fileID: 2100000, guid: 0d205f8070072a44c98b67bce7f2aad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_plstMat
+    second: {fileID: 2100000, guid: 6c1b5ada10ca91947a5ebaba3d7c900e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue_glassMat
+    second: {fileID: 2100000, guid: fad14356fe7a43942a7e2ffbfad6f892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown_seatMat
+    second: {fileID: 2100000, guid: 2517735385de40544b6e7c58371c20df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bw_cockpitMat
+    second: {fileID: 2100000, guid: 83adab4b484fae24e8512179e5cd8e44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bw_hullMat
+    second: {fileID: 2100000, guid: 27bf62b508ed17741b8b395e60103fea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bw_laser_1Mat
+    second: {fileID: 2100000, guid: 8611e97956f244143a76d272d3d344bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bw_laser_2Mat
+    second: {fileID: 2100000, guid: bab5eaf2470809d4ba3711ceff9c8336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bw_whiteMat
+    second: {fileID: 2100000, guid: ac98e3df2c8cabd42a7e8a345875e444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bw_wingMat
+    second: {fileID: 2100000, guid: a305d3bac42ea62478d1d955c62134b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_plstcMat
+    second: {fileID: 2100000, guid: 37f5d36049ecbbb40a63c8d4e01eb8ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orangeMat
+    second: {fileID: 2100000, guid: ae17f4e23813ea5488d811749685782a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pilotblackMat
+    second: {fileID: 2100000, guid: 89923ec9ed388c141a9b1098916be011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot__heMat
+    second: {fileID: 2100000, guid: 7864fb8954828e54d8ac53d79ea35129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_ch1Mat
+    second: {fileID: 2100000, guid: 5b9eee14715cf9947b3db710d0e87298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_cheMat
+    second: {fileID: 2100000, guid: 7f9b57bd94e456443ac92190f02d50a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_eyeMat
+    second: {fileID: 2100000, guid: 8e22acaca33585a4aa917c1e3e171cb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_facMat
+    second: {fileID: 2100000, guid: caa899f7a4f1a204fb6ac4f36bf5c1fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_he1Mat
+    second: {fileID: 2100000, guid: a80232ec093905b4b8f895173c132de2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_helMat
+    second: {fileID: 2100000, guid: 7c60c7243b71905468c591ab26d74797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_iriMat
+    second: {fileID: 2100000, guid: e4c0b42ec081489408eafa5ef4cbb153, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_necMat
+    second: {fileID: 2100000, guid: 18e30af076a53f3428252cb849e2f207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_strMat
+    second: {fileID: 2100000, guid: 231aba2476503984892fa56816961401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_ve1Mat
+    second: {fileID: 2100000, guid: 3c6f997eee158224ba0b88f610fa8fac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_vesMat
+    second: {fileID: 2100000, guid: 122531ce8c364cb4484e75fdf76612fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpilot_visMat
+    second: {fileID: 2100000, guid: 581b654b287894542aa939d07f5a0d5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpliot_fliMat
+    second: {fileID: 2100000, guid: df90c25d5e7a9d346a9c174b3d502104, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
